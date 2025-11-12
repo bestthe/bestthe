@@ -1,2 +1,1 @@
-https://img.shields.io/github/deployments/:user/:repo/:environment
-https://img.shields.io/github/directory-file-count/:user/:repo/:path
+<img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript">
