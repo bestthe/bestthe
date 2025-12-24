@@ -36,13 +36,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<br/>
-
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestthe&layout=compact&langs_count=6&hide=python&theme=default&bg_color=ffffff)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bestthe&show_icons=true&theme=default&bg_color=ffffff)
-
-
 
 <br/>
 
