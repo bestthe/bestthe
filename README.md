@@ -39,8 +39,8 @@
 <br/>
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=6&hide=python&theme=default&bg_color=ffffff)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&bg_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestthe&layout=compact&langs_count=6&hide=python&theme=default&bg_color=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bestthe&show_icons=true&theme=default&bg_color=ffffff)
 
 
 
